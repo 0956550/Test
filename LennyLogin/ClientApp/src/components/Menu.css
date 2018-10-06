@@ -1,0 +1,101 @@
+.Home {
+    width:100%; 
+    line-height:10px;
+    background-color: #5a5a5a;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    display: block;
+  }
+
+.Home:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Home:focus{
+    outline: 0;
+}
+
+.Home:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Winkelwagen {
+    width:100%; 
+    line-height: 10px;
+    background-color: #5a5a5a;
+    padding: 0;
+    border: 0px;
+    margin: 0px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+  }
+
+.Winkelwagen:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Winkelwagen:focus{
+    outline: 0;
+}
+
+.Winkelwagen:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Login {
+    width:100%; 
+    line-height:10px;
+    background-color: #5a5a5a;
+    padding: 0;
+    border: 0px;
+    margin: 0px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+  }
+
+.Login:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Login:focus{
+    outline: 0;
+}
+
+.Login:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-top: 5px;
+    padding-left: 5px;
+  }
+p{
+    float: none;
+}

@@ -1,0 +1,29 @@
+.Layout {
+    text-align: center;
+  }
+  
+  .Layout-header {
+    background-color: black;
+    height: 300px;
+    color: black;
+  }
+  .Layout-logo{
+    height: 100%;
+    width: 75%;
+    float: none;
+  }
+  
+  .Layout-sidebar{
+    float: left;
+    width: 250px;
+    height: 700px;
+    background-color: #bababa;
+  }
+  
+  .Layout-content{
+    float: right;
+    width: calc(100% - 250px);
+    height: 700px;
+    background-color: #5a5a5a;
+  }
+  
